@@ -105,4 +105,9 @@ python3 main_v1.py
 * **Voz Neural Otimizada:** Integração com a voz masculina `pt-BR-AntonioNeural` com taxa de reprodução acelerada (+15%).
 * **Calibração de Ruído:** Ajuste automático do nível de sensibilidade do microfone ao iniciar.
 
-## Próximas  Features
+## ⚡️ Próximas Features 
+
+* **Puxar Emails Pessoais:** extrair e trazer os emails pessoais mais relevantes do dia anterior.
+* **Trazer notícias do dia:** usar o Open Metero para trazer o clima do dia.
+* **Trazer as nóticias do dia:** trazer as notícias da hora ou dia anterior.
+* **Memória persistente:** ter memória das conversas e conseguir acessar e entender.

@@ -104,3 +104,5 @@ python3 main_v1.py
 * **Silenciamento de Logs:** Interceptação dos alertas de diagnóstico `ALSA/JACK` para manter o terminal limpo.
 * **Voz Neural Otimizada:** Integração com a voz masculina `pt-BR-AntonioNeural` com taxa de reprodução acelerada (+15%).
 * **Calibração de Ruído:** Ajuste automático do nível de sensibilidade do microfone ao iniciar.
+
+## Próximas  Features
